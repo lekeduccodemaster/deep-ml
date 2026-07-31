@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T04:13:27.336Z",
+  "generated_at": "2026-10-09T03:03:42.258Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -39,6 +39,58 @@
       "last_pushed_at": "2026-10-05T04:13:25.016Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-07-31T03:12:27.142Z",
+      "last_pushed_at": "2026-07-31T03:12:27.142Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-07-31T09:03:38.557Z",
+      "last_pushed_at": "2026-07-31T09:03:38.557Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-07-31T09:21:18.531Z",
+      "last_pushed_at": "2026-07-31T09:21:18.531Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2026-07-31T14:57:06.642Z",
+      "last_pushed_at": "2026-07-31T14:57:06.642Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
