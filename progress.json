@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:03:42.258Z",
+  "generated_at": "2026-10-09T03:03:44.557Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -91,6 +91,32 @@
       "last_pushed_at": "2026-07-31T14:57:06.642Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-08-01T03:30:46.020Z",
+      "last_pushed_at": "2026-08-01T03:30:46.020Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-08-01T03:34:00.582Z",
+      "last_pushed_at": "2026-08-01T03:34:00.582Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
