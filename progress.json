@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:03:48.271Z",
+  "generated_at": "2026-10-09T03:03:50.031Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -169,6 +169,71 @@
       "last_pushed_at": "2026-08-09T03:50:20.523Z",
       "language": "python",
       "lines": 103
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-08-10T09:16:24.018Z",
+      "last_pushed_at": "2026-08-10T09:16:24.018Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-08-10T09:18:56.646Z",
+      "last_pushed_at": "2026-08-10T09:18:56.646Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-08-10T09:41:23.756Z",
+      "last_pushed_at": "2026-08-10T09:41:23.756Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-08-10T09:44:06.457Z",
+      "last_pushed_at": "2026-08-10T09:44:06.457Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-08-10T09:48:34.821Z",
+      "last_pushed_at": "2026-08-10T09:48:34.821Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
