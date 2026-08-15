@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:03:50.031Z",
+  "generated_at": "2026-10-09T03:03:52.004Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -234,6 +234,32 @@
       "last_pushed_at": "2026-08-10T09:48:34.821Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:1139": {
+      "kind": "problem",
+      "id": "1139",
+      "title": "Simulate Two-Dice Sum Distribution",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/1139",
+      "path": "problems/1139-simulate-two-dice-sum-distribution",
+      "first_solved_at": "2026-08-15T03:34:17.393Z",
+      "last_pushed_at": "2026-08-15T03:34:17.393Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-08-15T03:49:44.645Z",
+      "last_pushed_at": "2026-08-15T03:49:44.645Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
