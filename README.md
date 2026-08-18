@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 20 problems · 0 labs · 0 math
+**23** solved · 20 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-07-31 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-08-09 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-08-09 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-08-18 | [solution](math/0019-probability-fundamentals) |
+| [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-18 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-18 | [solution](math/0010-matrix-multiplication) |
 
 ---
 
