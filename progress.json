@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:03:53.739Z",
+  "generated_at": "2026-10-09T03:03:55.339Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -293,6 +293,58 @@
       "path": "math/0047-gram-schmidt-and-orthonormal-bases",
       "first_solved_at": "2026-08-18T14:32:21.807Z",
       "last_pushed_at": "2026-08-18T14:32:21.807Z"
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-08-20T13:06:10.334Z",
+      "last_pushed_at": "2026-08-20T13:06:10.334Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-08-20T13:16:43.817Z",
+      "last_pushed_at": "2026-08-20T13:16:43.817Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-08-20T13:39:57.158Z",
+      "last_pushed_at": "2026-08-20T13:39:57.158Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2026-08-20T13:52:27.791Z",
+      "last_pushed_at": "2026-08-20T13:52:27.791Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
