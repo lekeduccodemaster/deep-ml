@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:03:55.339Z",
+  "generated_at": "2026-10-09T03:03:57.174Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -345,6 +345,139 @@
       "last_pushed_at": "2026-08-20T13:52:27.791Z",
       "language": "python",
       "lines": 24
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-08-21T13:17:17.326Z",
+      "last_pushed_at": "2026-08-21T13:17:17.326Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-08-21T13:18:03.554Z",
+      "last_pushed_at": "2026-08-21T13:18:03.554Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-08-21T13:19:26.481Z",
+      "last_pushed_at": "2026-08-21T13:19:26.481Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-08-21T13:21:42.790Z",
+      "last_pushed_at": "2026-08-21T13:21:42.790Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-08-21T13:29:07.113Z",
+      "last_pushed_at": "2026-08-21T13:29:07.113Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-08-21T13:32:13.101Z",
+      "last_pushed_at": "2026-08-21T13:32:13.101Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-08-21T13:40:45.613Z",
+      "last_pushed_at": "2026-08-21T13:40:45.613Z",
+      "language": "python",
+      "lines": 7
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-08-21T13:41:31.475Z",
+      "last_pushed_at": "2026-08-21T13:41:31.475Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-08-21T13:44:07.424Z",
+      "last_pushed_at": "2026-08-21T13:44:07.424Z"
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-08-21T14:02:25.354Z",
+      "last_pushed_at": "2026-08-21T14:02:25.354Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-08-21T14:16:07.316Z",
+      "last_pushed_at": "2026-08-21T14:16:07.316Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
