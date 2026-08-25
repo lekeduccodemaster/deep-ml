@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:03:57.174Z",
+  "generated_at": "2026-10-09T03:03:59.145Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -478,6 +478,43 @@
       "last_pushed_at": "2026-08-21T14:16:07.316Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-08-25T09:54:05.639Z",
+      "last_pushed_at": "2026-08-25T09:54:05.639Z",
+      "language": "python",
+      "lines": 26
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-08-25T10:07:14.059Z",
+      "last_pushed_at": "2026-08-25T10:07:14.059Z"
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-25T14:24:45.958Z",
+      "last_pushed_at": "2026-08-25T14:24:45.958Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
