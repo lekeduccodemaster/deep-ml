@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:04:01.149Z",
+  "generated_at": "2026-10-09T03:04:03.026Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -539,6 +539,87 @@
       "last_pushed_at": "2026-08-27T14:03:36.481Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-08-28T08:56:58.707Z",
+      "last_pushed_at": "2026-08-28T08:56:58.707Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-08-28T09:34:00.057Z",
+      "last_pushed_at": "2026-08-28T09:34:00.057Z",
+      "language": "python",
+      "lines": 12
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-08-28T09:38:52.969Z",
+      "last_pushed_at": "2026-08-28T09:38:52.969Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-08-28T09:39:55.192Z",
+      "last_pushed_at": "2026-08-28T09:39:55.192Z"
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-08-28T09:41:56.945Z",
+      "last_pushed_at": "2026-08-28T09:41:56.945Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-08-28T09:42:47.780Z",
+      "last_pushed_at": "2026-08-28T09:42:47.780Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-08-28T09:51:24.524Z",
+      "last_pushed_at": "2026-08-28T09:51:24.524Z"
     }
   }
 }

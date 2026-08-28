@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 33 problems · 0 labs · 10 math
+**50** solved · 35 problems · 0 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-08-02 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-08-27 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-08-01 | [solution](problems/0083-dot-product-calculator) |
+| [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-08-28 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
+| [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-08-28 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-08-21 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-25 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-31 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -57,8 +59,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-08-21 | [solution](math/0009-matrix-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-08-18 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-21 | [solution](math/0007-vector-operations) |
+| [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-28 | [solution](math/0011-determinants-and-trace) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-18 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-08-28 | [solution](math/0012-inverse-and-rank) |
+| [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-08-28 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-18 | [solution](math/0010-matrix-multiplication) |
+| [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-08-28 | [solution](math/0014-orthogonality-and-projections) |
+| [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-08-28 | [solution](math/0013-solving-linear-systems) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-08-21 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
