@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 35 problems · 0 labs · 15 math
+**55** solved · 39 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-08-20 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-08-21 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-08-30 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-08-15 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-08-10 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-08-02 | [solution](problems/0116-derivative-of-a-polynomial) |
@@ -24,7 +25,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-08-28 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-08-28 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-08-21 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-08-30 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-25 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-08-30 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-31 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-05 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-07-31 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
@@ -38,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-08-20 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-31 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-10-05 | [solution](problems/0847-dummy-classifier-baseline) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-30 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-08-01 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-02 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-10 | [solution](problems/0007-matrix-transformation) |
@@ -59,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-08-21 | [solution](math/0009-matrix-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-08-18 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-21 | [solution](math/0007-vector-operations) |
+| [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-08-30 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-28 | [solution](math/0011-determinants-and-trace) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-18 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-08-28 | [solution](math/0012-inverse-and-rank) |
