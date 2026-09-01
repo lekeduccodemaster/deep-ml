@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:04:06.897Z",
+  "generated_at": "2026-10-09T03:04:08.611Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -696,6 +696,50 @@
       "last_pushed_at": "2026-08-31T10:33:39.205Z",
       "language": "python",
       "lines": 19
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-09-01T02:02:36.032Z",
+      "last_pushed_at": "2026-09-01T02:02:36.032Z"
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-09-01T02:25:32.889Z",
+      "last_pushed_at": "2026-09-01T02:25:32.889Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-09-01T02:26:54.034Z",
+      "last_pushed_at": "2026-09-01T02:26:54.034Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-09-01T02:48:57.096Z",
+      "last_pushed_at": "2026-09-01T02:48:57.096Z"
     }
   }
 }
