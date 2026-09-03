@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:04:08.611Z",
+  "generated_at": "2026-10-09T03:04:10.359Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -740,6 +740,69 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-09-01T02:48:57.096Z",
       "last_pushed_at": "2026-09-01T02:48:57.096Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-09-03T09:37:08.022Z",
+      "last_pushed_at": "2026-09-03T09:37:08.022Z"
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-09-03T09:54:10.858Z",
+      "last_pushed_at": "2026-09-03T09:54:10.858Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-09-03T10:13:30.326Z",
+      "last_pushed_at": "2026-09-03T10:13:30.326Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-09-03T14:00:25.912Z",
+      "last_pushed_at": "2026-09-03T14:00:25.912Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-09-03T14:21:16.616Z",
+      "last_pushed_at": "2026-09-03T14:21:16.616Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

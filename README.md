@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 40 problems · 0 labs · 20 math
+**65** solved · 44 problems · 0 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-08-15 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-08-10 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-08-02 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-03 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-08-27 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-08-01 | [solution](problems/0083-dot-product-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-08-28 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
@@ -41,12 +42,15 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-08-20 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-08-31 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-31 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-03 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-10-05 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-30 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-03 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-08-01 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-02 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-10 | [solution](problems/0007-matrix-transformation) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-08-20 | [solution](problems/0080-normal-distribution-pdf-calculator) |
+| [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-09-03 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-21 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-05 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-07-31 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
@@ -75,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-09-01 | [solution](math/0002-multivariate-calculus) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-09-01 | [solution](math/0003-neural-network-derivatives) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-08-28 | [solution](math/0014-orthogonality-and-projections) |
+| [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-03 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-08-28 | [solution](math/0013-solving-linear-systems) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-08-21 | [solution](math/0008-vector-norms-and-linear-independence) |
 
