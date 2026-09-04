@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 44 problems · 0 labs · 21 math
+**67** solved · 46 problems · 0 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-08-31 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-31 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-03 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-04 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-04 | [solution](problems/0219-derivative-of-softmax) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-10-05 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-30 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-03 | [solution](problems/0202-jacobian-matrix-calculation) |

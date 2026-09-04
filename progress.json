@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:04:10.359Z",
+  "generated_at": "2026-10-09T03:04:12.164Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -803,6 +803,32 @@
       "last_pushed_at": "2026-09-03T14:21:16.616Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-09-04T02:56:30.162Z",
+      "last_pushed_at": "2026-09-04T02:56:30.162Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-09-04T03:08:58.750Z",
+      "last_pushed_at": "2026-09-04T03:08:58.750Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
