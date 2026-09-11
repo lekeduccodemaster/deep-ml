@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:04:16.003Z",
+  "generated_at": "2026-10-09T03:04:17.702Z",
   "items": {
     "problem:842": {
       "kind": "problem",
@@ -949,6 +949,43 @@
       "last_pushed_at": "2026-09-10T02:43:52.516Z",
       "language": "python",
       "lines": 48
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-11T02:04:39.091Z",
+      "last_pushed_at": "2026-09-11T02:04:39.091Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-09-11T02:25:56.011Z",
+      "last_pushed_at": "2026-09-11T02:25:56.011Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-11T02:45:16.223Z",
+      "last_pushed_at": "2026-09-11T02:45:16.223Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
